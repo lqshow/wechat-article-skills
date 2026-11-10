@@ -1,0 +1,18 @@
+{
+ "slug": "card-pick",
+ "title": "开头横幅 · 标题卡 · pick",
+ "style": "card",
+ "card": {
+  "eyebrow": "ZCOOL · DESIGN IN THE AI ERA",
+  "title1": "别只追求正确",
+  "title2": "设计，要有立场",
+  "sub": "审美判断 · 作者性 · 交付落地",
+  "right": "pick",
+  "grid_label": "平均方案",
+  "pick": "选",
+  "pick_label": "人的判断",
+  "card_title1": "自己的",
+  "card_title2": "视觉立场",
+  "caption": "别被 AI 均值牵着走"
+ }
+}

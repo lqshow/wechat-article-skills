@@ -1,0 +1,32 @@
+{
+ "slug": "card-converge",
+ "title": "开头横幅 · 标题卡 · converge",
+ "style": "card",
+ "card": {
+  "eyebrow": "NANOWORK · AI OFFICE",
+  "title1": "从生成文件",
+  "title2": "到接管工作",
+  "sub": "AI 连续执行，人随时接手。",
+  "right": "converge",
+  "caption": "DRAFT → FILE → WORKFLOW",
+  "cards": [
+   {
+    "num": "01 · 草稿",
+    "icon": "lines",
+    "label": "Markdown"
+   },
+   {
+    "num": "02 · 交付",
+    "icon": "doc",
+    "label": "Word · HTML"
+   },
+   {
+    "num": "03 · 持续执行",
+    "icon": "monitor",
+    "label": "云端工位"
+   }
+  ],
+  "box_title": "多智能体 × 多模型调度",
+  "box_sub": "沙箱隔离 · 关键节点由人判断"
+ }
+}

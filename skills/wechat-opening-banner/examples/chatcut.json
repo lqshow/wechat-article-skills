@@ -1,0 +1,6 @@
+{"slug":"chatcut","title":"开头横幅 · ChatCut 2.0","caption":"ChatCut 2.0 实测",
+ "scene":{"layout":"pipeline",
+   "source":{"prop":"chat","label":"一句大白话"},
+   "processor":{"prop":"clapper","label":"剪辑 Skill"},
+   "tile":"film",
+   "items":[{"icon":"person","label":"我的照片"},{"icon":"cup","label":"商品图"},{"icon":"mic","label":"口播剪辑"},{"icon":"play","label":"成片"}]}}

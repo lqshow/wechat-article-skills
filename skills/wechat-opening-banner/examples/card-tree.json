@@ -1,0 +1,36 @@
+{
+ "slug": "card-tree",
+ "title": "开头横幅 · 标题卡 · tree",
+ "style": "card",
+ "card": {
+  "eyebrow": "EAZO · INTELLIGENT UI",
+  "title1": "对话用来造工具",
+  "title2": "界面留给生活",
+  "sub": "Personal Agent，不止一个聊天框。",
+  "right": "tree",
+  "head": "一句想法 → 一个专属 App",
+  "items": [
+   {
+    "icon": "home",
+    "title": "3D 童话",
+    "desc": "走进绘本世界"
+   },
+   {
+    "icon": "dice",
+    "title": "聚会游戏",
+    "desc": "点开就能玩"
+   },
+   {
+    "icon": "box",
+    "title": "拍照收纳",
+    "desc": "快速找到位置"
+   },
+   {
+    "icon": "layers",
+    "title": "汽车拆解",
+    "desc": "看懂零件结构"
+   }
+  ],
+  "result": "Qoni 底座 · 身份 / 记忆 / 行动"
+ }
+}

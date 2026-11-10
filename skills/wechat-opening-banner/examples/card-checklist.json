@@ -1,0 +1,20 @@
+{
+ "slug": "card-checklist",
+ "title": "开头横幅 · 标题卡 · checklist",
+ "style": "card",
+ "card": {
+  "eyebrow": "灵光 2.0 · AI 助理实测",
+  "title1": "交代一次",
+  "title2": "它替你记着、盯着",
+  "sub": "提醒 · 再催 · 巡检 · 不打扰",
+  "right": "checklist",
+  "title": "今天替你盯着的事",
+  "items": [
+   "06:00 提醒吃药",
+   "14:30 没回再催一次",
+   "12/01 巡检扣费",
+   "出发前查好车次"
+  ],
+  "caption": "一句话交代，剩下它来"
+ }
+}

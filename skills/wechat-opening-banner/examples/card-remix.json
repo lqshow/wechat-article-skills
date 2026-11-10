@@ -1,0 +1,28 @@
+{
+ "slug": "card-remix",
+ "title": "开头横幅 · 标题卡 · remix",
+ "style": "card",
+ "card": {
+  "eyebrow": "LIBTV · REMIX YOUR STORY",
+  "title1": "先复刻一个爆款",
+  "title2": "再拍出你的故事",
+  "sub": "古人 MV · 露营综艺 · 虚拟角色",
+  "right": "remix",
+  "cards": [
+   {
+    "title": "复制项目",
+    "art": "nodes"
+   },
+   {
+    "title": "换人物",
+    "sub": "改写故事",
+    "hl": true
+   },
+   {
+    "title": "你的新版本",
+    "art": "image"
+   }
+  ],
+  "caption": "先做一条 10 秒小片"
+ }
+}

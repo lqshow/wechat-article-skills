@@ -1,0 +1,37 @@
+{
+ "slug": "card-storyboard",
+ "title": "开头横幅 · 标题卡 · storyboard",
+ "style": "card",
+ "card": {
+  "eyebrow": "LIBTV 1.5 · MY SHORT DRAMA",
+  "title1": "用 AI 做短剧",
+  "title2": "人人都能当主角",
+  "sub": "从一张照片，走到一部短剧。",
+  "right": "storyboard",
+  "caption": "YOUR CHARACTER, YOUR STORY",
+  "who": {
+   "avatar": true,
+   "label": "我的角色"
+  },
+  "shots": [
+   {
+    "icon": "scene_wide",
+    "label": "全景"
+   },
+   {
+    "icon": "scene_mid",
+    "label": "中景"
+   },
+   {
+    "icon": "scene_close",
+    "label": "特写"
+   }
+  ],
+  "flow": [
+   "角色",
+   "故事",
+   "镜头",
+   "我的短剧"
+  ]
+ }
+}

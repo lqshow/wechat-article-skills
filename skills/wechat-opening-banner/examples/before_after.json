@@ -1,0 +1,4 @@
+{"slug":"demo-before-after","title":"开头横幅 · 前后对比","caption":"ChatCut 2.0 实测",
+ "scene":{"layout":"before_after","before_label":"以前：素材一堆手动剪","before":["photo","mic","text","music","scissors","play"],
+  "via":{"icon":"chat","label":"一句话"},"after_label":"现在：一句话出片",
+  "items":[{"icon":"mic","label":"口播初剪"},{"icon":"text","label":"字幕包装"},{"icon":"music","label":"配乐压低"},{"icon":"play","label":"成片"}]}}

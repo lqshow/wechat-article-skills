@@ -1,0 +1,29 @@
+{
+ "slug": "card-compare",
+ "title": "开头横幅 · 标题卡 · compare",
+ "style": "card",
+ "card": {
+  "eyebrow": "FLASH MODELS · COMPARISON",
+  "title1": "神秘新模型",
+  "title2": "Space Bunny",
+  "sub": "九个场景，三家 Flash 同题对照。",
+  "right": "compare",
+  "caption": "SAME TASKS, DIFFERENT RESULTS",
+  "head": "BUNNY · DEEPSEEK · GLM",
+  "items": [
+   {
+    "icon": "web",
+    "label": "网页 × 3"
+   },
+   {
+    "icon": "cube",
+    "label": "建模 × 3"
+   },
+   {
+    "icon": "chart",
+    "label": "工作 × 3"
+   }
+  ],
+  "result": "同一套题，看真实交付细节"
+ }
+}

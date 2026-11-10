@@ -1,0 +1,26 @@
+{
+ "slug": "card-stats",
+ "title": "开头横幅 · 标题卡 · stats",
+ "style": "card",
+ "card": {
+  "eyebrow": "示例数据 · DEMO",
+  "title1": "同一条视频",
+  "title2": "剪辑时间少九成",
+  "sub": "粗剪 · 字幕 · 配乐 · 导出",
+  "right": "stats",
+  "caption": "BEFORE → AFTER",
+  "items": [
+   {
+    "label": "手动剪",
+    "value": "3h",
+    "note": "示例数字"
+   },
+   {
+    "label": "用 Skill",
+    "value": "10min",
+    "note": "示例数字"
+   }
+  ],
+  "result": "把时间留给内容本身"
+ }
+}

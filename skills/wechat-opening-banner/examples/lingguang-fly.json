@@ -1,0 +1,3 @@
+{"slug":"lingguang-fly","title":"开头横幅 · 灵光（飞入版）","caption":"灵光 2.0 实测",
+ "scene":{"layout":"fly","flyer":"pill","left_label":"交代一次","device":"computer","device_label":"它记着、盯着","screen":["bell","calendar","wallet"],
+   "items":[{"icon":"pill","label":"到点提醒"},{"icon":"bell","label":"没回再催"},{"icon":"wallet","label":"每月巡检"}]}}

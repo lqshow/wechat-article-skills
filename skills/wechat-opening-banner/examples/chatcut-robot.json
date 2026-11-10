@@ -1,0 +1,3 @@
+{"slug":"chatcut-robot","title":"开头横幅 · ChatCut（机器人版）","caption":"ChatCut 2.0 实测",
+ "scene":{"layout":"pipeline","processor":{"prop":"robot","label":"视频 Agent"},"tile":"card",
+   "items":[{"icon":"photo","label":"AI 广告"},{"icon":"scissors","label":"口播初剪"},{"icon":"text","label":"字幕包装"},{"icon":"music","label":"配乐压低"},{"icon":"play","label":"复刻爆款"}]}}

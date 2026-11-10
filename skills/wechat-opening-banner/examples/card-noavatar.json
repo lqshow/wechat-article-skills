@@ -1,0 +1,32 @@
+{
+ "slug": "card-lingguang",
+ "title": "开头横幅 · 标题卡 · 灵光",
+ "style": "card",
+ "card": {
+  "avatar": false,
+  "eyebrow": "灵光 2.0 · AI 助理实测",
+  "title1": "交代一次",
+  "title2": "它替你记着、盯着",
+  "sub": "提醒 · 再催 · 巡检 · 不打扰",
+  "foot": "LINGGUANG 2.0 · AI ASSISTANT",
+  "steps": [
+   {
+    "icon": "bell",
+    "label": "到点提醒"
+   },
+   {
+    "icon": "calendar",
+    "label": "每月巡检"
+   },
+   {
+    "icon": "chat",
+    "label": "没回再催"
+   },
+   {
+    "icon": "spark",
+    "label": "不打扰"
+   }
+  ],
+  "result": "吃药、扣费、车次，一句话交代"
+ }
+}

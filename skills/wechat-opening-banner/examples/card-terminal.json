@@ -1,0 +1,32 @@
+{
+ "slug": "card-terminal",
+ "title": "开头横幅 · 标题卡 · terminal",
+ "style": "card",
+ "card": {
+  "eyebrow": "CLAUDE CODE · SKILL",
+  "title1": "一行命令",
+  "title2": "横幅自己长出来",
+  "sub": "读文章 · 选模板 · 出 HTML",
+  "right": "terminal",
+  "title": "~/wechat-banner",
+  "lines": [
+   {
+    "type": "cmd",
+    "text": "/wechat-opening-banner 灵光.md"
+   },
+   {
+    "type": "out",
+    "text": "读文章，挑出 5 个节点"
+   },
+   {
+    "type": "out",
+    "text": "选模板：path 路线"
+   },
+   {
+    "type": "ok",
+    "text": "lingguang-复制到公众号.html"
+   }
+  ],
+  "caption": "复制，粘进公众号就行"
+ }
+}

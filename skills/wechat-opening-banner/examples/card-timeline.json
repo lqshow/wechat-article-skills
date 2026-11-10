@@ -1,0 +1,27 @@
+{
+ "slug": "card-timeline",
+ "title": "开头横幅 · 标题卡 · timeline",
+ "style": "card",
+ "card": {
+  "eyebrow": "ALICE · PERSONAL AGENT",
+  "title1": "记住的，",
+  "title2": "是共同经历",
+  "sub": "日常 · 长期记忆 · 伙伴协作",
+  "right": "timeline",
+  "items": [
+   {
+    "title": "今天 · 一起经历",
+    "desc": "聊日常，也做具体的事。"
+   },
+   {
+    "title": "每晚 · 整理记忆",
+    "desc": "把共同经历写进印象与日记。"
+   },
+   {
+    "title": "下次 · 继续共创",
+    "desc": "伙伴协作，创作进入新故事。"
+   }
+  ],
+  "result": "白艾莉 Alice · 共同时间线"
+ }
+}

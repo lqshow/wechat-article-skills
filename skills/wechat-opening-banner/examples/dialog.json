@@ -1,0 +1,4 @@
+{"slug":"demo-dialog","title":"开头横幅 · 对话来回","caption":"ChatCut 2.0 实测",
+ "scene":{"layout":"dialog","window_title":"ChatCut",
+  "messages":[{"from":"me","text":"把这段口播剪一下"},{"from":"ai","text":"收到，粗剪完成"},{"from":"me","text":"配乐再小一点"},{"from":"ai","text":"已调好，正在导出"}],
+  "items":[{"icon":"play","label":"成片"},{"icon":"text","label":"字幕"},{"icon":"image","label":"封面"}]}}

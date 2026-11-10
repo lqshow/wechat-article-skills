@@ -1,0 +1,4 @@
+{"slug":"chatcut-card","title":"ChatCut","style":"card",
+ "card":{"eyebrow":"CHATCUT 2.0 · AI 剪辑实测","title1":"一句大白话","title2":"剪出一条口播成片","sub":"AI 广告 · 口播剪辑 · 复刻爆款","right":"chat","window_title":"ChatCut",
+  "messages":[{"from":"me","text":"把这段口播剪一下"},{"from":"ai","text":"粗剪好了，字幕已加"},{"from":"me","text":"配乐再小一点"}],
+  "result_icon":"play","result_title":"口播成片","result_sub":"字幕、配乐都调好","caption":"不想写提示词，也能用"}}
